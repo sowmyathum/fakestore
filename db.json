@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "java"
+    },
+    {
+      "category_id": 2,
+      "category_name": "react"
+    },
+    {
+      "category_id": 3,
+      "category_name": "aws"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "title": "React JS - Tutorial",
+      "description": "React 18x Tutorial",
+      "url": "https://www.youtube.com/embed/tm7kVn8abSg",
+      "views": 100,
+      "likes": 30,
+      "dislikes": 0,
+      "category_id": 2,
+      "comments": "Thank you"
+    },
+    {
+      "title": "Java-Strings",
+      "description": " Logical Programs with Text Block and Stream API",
+      "url": "https://www.youtube.com/embed/i6V6yce63S8",
+      "likes": 150,
+      "views": 231,
+      "dislikes": 0,
+      "comments": "Please provide more",
+      "category_id": "1",
+      "id": "ff1b"
+    }
+  ],
+  "admin": [
+    {
+      "admin_id": "john_admin",
+      "password": "john@11"
+    }
+  ],
+  "users": [
+    {
+      "user_id": "",
+      "user_name": "",
+      "password": "",
+      "mobile": ""
+    },
+    {
+      "id": "d239",
+      "user_id": "david_12",
+      "user_name": "david@12",
+      "password": "david@12",
+      "mobile": "3698521547"
+    }
+  ]
+}
